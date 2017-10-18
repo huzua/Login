@@ -7,11 +7,11 @@
 
     <!-- padding：Button里面的文字与Button边界的间隔 -->
     <padding
-        android:left="8dp"
-        android:top="8dp"
-        android:right="8dp"
-        android:bottom="8dp"
-        />
+    android:left="8dp"
+    android:top="8dp"
+    android:right="8dp"
+    android:bottom="8dp"
+    />
 
     <!-- 背景色 -->
     <solid android:color="#EFEFF4"/>

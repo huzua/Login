@@ -92,7 +92,7 @@
         android:orientation="horizontal"
         android:gravity="center"
         android:layout_marginTop="250dp"
-        android:layout_marginLeft="50dp"
+        android:layout_marginLeft="100dp"
         >
         <LinearLayout
             android:layout_width="wrap_content"
@@ -102,7 +102,7 @@
             >
 
             <TextView
-                android:id="@+id/Login_TextView_Send"
+                android:id="@+id/btn_login"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:text="登录"
@@ -125,7 +125,7 @@
                 android:layout_height="50dp"
                 android:text="返回"
                 android:textSize="17sp"
-                android:textColor="#000000v v v./,"
+                android:textColor="#000000"
                 android:background="@drawable/shape_loginback"
                 android:layout_alignParentBottom="true"
                 android:gravity="center"
